@@ -1,0 +1,19 @@
+{
+  "name": "notes-api",
+  "version": "1.0.0",
+  "description": "Simple note-taking CLI using Node.js",
+  "main": "index.js",
+   "bin": {
+    "notes": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sumit Bahl",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
